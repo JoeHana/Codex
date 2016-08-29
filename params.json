@@ -1,0 +1,6 @@
+{
+  "name": "Codex",
+  "tagline": "WordPress Theme",
+  "body": "Codex is a simple WordPress Themes made with \"Documentations\" and \"Businessplans\" in mind.\r\n\r\n### Features\r\n* Mobile-first, minimal, responsive design with very good readability\r\n* Integration with Download Monitor\r\n* Integration with Passwort Protected\r\n* Integration with Public Revisions\r\n* Integration with WP Advanced PDF and WP Advanced PDF Plus\r\n* Integration with Visual Composer\r\n* Integration with Ninja Forms\r\n* Integration with Polylang\r\n\r\n### Coming Soon\r\n* Support for Code Embedding\r\n* Comments\r\n* Rate Comments\r\n* Support for Posts (Blog)\r\n* NDA (non-disclosure-agreement; useful for online-businessplans)\r\n\r\n### About\r\nCodex has been made by me, primary for the purposes to create more easily and quicker documentations and businessplans. It includes various integrations ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
